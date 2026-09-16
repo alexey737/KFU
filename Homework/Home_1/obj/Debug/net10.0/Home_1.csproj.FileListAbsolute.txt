@@ -1,0 +1,14 @@
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\bin\Debug\net10.0\Home_1.exe
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\bin\Debug\net10.0\Home_1.deps.json
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\bin\Debug\net10.0\Home_1.runtimeconfig.json
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\bin\Debug\net10.0\Home_1.dll
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\bin\Debug\net10.0\Home_1.pdb
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\Home_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\Home_1.AssemblyInfoInputs.cache
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\Home_1.AssemblyInfo.cs
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\Home_1.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\Home_1.dll
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\refint\Home_1.dll
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\Home_1.pdb
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\Home_1.genruntimeconfig.cache
+C:\Users\Наталия\Desktop\KFU\Homework\Home_1\obj\Debug\net10.0\ref\Home_1.dll

@@ -1,0 +1,14 @@
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\Lab_2.AssemblyInfoInputs.cache
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\Lab_2.AssemblyInfo.cs
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\bin\Debug\net10.0\Lab_2.exe
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\bin\Debug\net10.0\Lab_2.deps.json
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\bin\Debug\net10.0\Lab_2.runtimeconfig.json
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\bin\Debug\net10.0\Lab_2.dll
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\bin\Debug\net10.0\Lab_2.pdb
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\Lab_2.dll
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\refint\Lab_2.dll
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\Lab_2.pdb
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\Lab_2.genruntimeconfig.cache
+C:\Users\Наталия\Desktop\KFU\Labs\Lab_2\obj\Debug\net10.0\ref\Lab_2.dll
