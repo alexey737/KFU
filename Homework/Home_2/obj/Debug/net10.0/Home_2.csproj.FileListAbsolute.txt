@@ -1,0 +1,15 @@
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\Home_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\Home_2.AssemblyInfoInputs.cache
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\Home_2.AssemblyInfo.cs
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\Home_2.csproj.CoreCompileInputs.cache
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\Home_2.sourcelink.json
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\bin\Debug\net10.0\Home_2.exe
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\bin\Debug\net10.0\Home_2.deps.json
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\bin\Debug\net10.0\Home_2.runtimeconfig.json
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\bin\Debug\net10.0\Home_2.dll
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\bin\Debug\net10.0\Home_2.pdb
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\Home_2.dll
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\refint\Home_2.dll
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\Home_2.pdb
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\Home_2.genruntimeconfig.cache
+C:\Users\Наталия\Desktop\KFU\Homework\Home_2\obj\Debug\net10.0\ref\Home_2.dll
