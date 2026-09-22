@@ -52,7 +52,7 @@ else
 {
 	Console.Write("error");
 }	
-*/
+
 
 Console.WriteLine("Введите число");
 string s = Console.ReadLine();
@@ -81,4 +81,14 @@ if (int.TryParse(s, out int N))
 else
 {
 	Console.Write("error");
+}
+*/
+
+
+int[] numbers = {1,2,3,4,5};
+(numbers[0],numbers[4])=(numbers[4],numbers[0]);
+(numbers[1],numbers[3])=(numbers[3],numbers[1]);
+foreach (int x in numbers)
+{
+	Console.Write(x + " ");
 }
