@@ -36,7 +36,7 @@ else
 {
 	Console.Write("error");
 }
-*/
+
 
 
 Console.WriteLine("Введите число");
@@ -52,3 +52,33 @@ else
 {
 	Console.Write("error");
 }	
+*/
+
+Console.WriteLine("Введите число");
+string s = Console.ReadLine();
+if (int.TryParse(s, out int N))
+{
+	bool Prost(int n)
+	{
+		if (n <= 1) return false;        
+
+		for (int i = 2; i < n; i++)
+		{
+			if (n % i == 0)				
+				return false;
+		}
+		return true;
+	}
+	if (Prost(N))
+	{
+		Console.Write("Число простое");
+	}
+	else
+	{
+		Console.Write("Не простое");
+	}
+}
+else
+{
+	Console.Write("error");
+}
