@@ -82,7 +82,7 @@ else
 {
 	Console.Write("error");
 }
-*/
+
 
 
 int[] numbers = {1,2,3,4,5};
@@ -92,3 +92,23 @@ foreach (int x in numbers)
 {
 	Console.Write(x + " ");
 }
+*/
+
+int[] nums = {14, 6, 84, 35, 40, 4};
+for (int i=0; i<nums.Length - 1;i++)
+{
+	for (int j=0; j<nums.Length - 1;j++)
+	{
+		if(nums[j]>nums[j+1])
+		{
+			int x = nums[j];
+			nums[j]=nums[j+1];
+			nums[j+1]=x;
+		}
+	}
+}
+foreach (int x in nums)
+{
+	Console.Write(x+" ");
+}
+		
