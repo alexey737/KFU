@@ -92,7 +92,7 @@ foreach (int x in numbers)
 {
 	Console.Write(x + " ");
 }
-*/
+
 
 int[] nums = {14, 6, 84, 35, 40, 4};
 for (int i=0; i<nums.Length - 1;i++)
@@ -101,9 +101,7 @@ for (int i=0; i<nums.Length - 1;i++)
 	{
 		if(nums[j]>nums[j+1])
 		{
-			int x = nums[j];
-			nums[j]=nums[j+1];
-			nums[j+1]=x;
+			(nums[j],nums[j+1])=(nums[j+1],nums[j]);
 		}
 	}
 }
@@ -111,4 +109,24 @@ foreach (int x in nums)
 {
 	Console.Write(x+" ");
 }
+*/
+
+int[,] matrix = {
+	{3,6,2},
+	{4,10,35},
+	{12,35,89}
+};
+int sum = 0;
+for (int i=0;i<matrix.GetLength(0);i++)
+{
+	for(int j = 0;j<matrix.GetLength(1);j++)
+	{
+		if (i==j)
+		{
+			Console.Write(matrix[i,j]+" ");
+			sum+=matrix[i,j];
+		}
+	}
+}
+Console.Write("="+sum);
 		
