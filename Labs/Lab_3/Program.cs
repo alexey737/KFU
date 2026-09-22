@@ -10,7 +10,7 @@ for(int i = 1; i<=10;i++)
 		}
 	}
 }
-*/
+
 
 Console.WriteLine("Введите число");
 string s = Console.ReadLine();
@@ -36,5 +36,19 @@ else
 {
 	Console.Write("error");
 }
+*/
 
-	
+
+Console.WriteLine("Введите число");
+string s = Console.ReadLine();
+if (int.TryParse(s, out int N))
+{
+	for(int i = 1; i<=N; i++)
+	{
+		Console.WriteLine(new string('*',i));
+	}
+}
+else
+{
+	Console.Write("error");
+}	
