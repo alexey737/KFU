@@ -109,7 +109,7 @@ foreach (int x in nums)
 {
 	Console.Write(x+" ");
 }
-*/
+
 
 int[,] matrix = {
 	{3,6,2},
@@ -129,4 +129,89 @@ for (int i=0;i<matrix.GetLength(0);i++)
 	}
 }
 Console.Write("="+sum);
-		
+*/
+
+
+
+int[] arr = new int[10];
+for (int i=0;i<10;i++)
+{
+	Console.Write("Введите число");
+	arr[i] = int.Parse(Console.ReadLine());
+}
+Console.WriteLine("1 - вывести массив");
+Console.WriteLine("2 - найти мин макс и сумму");
+Console.WriteLine("3 - перевернуть массив");
+Console.WriteLine("4 - отсортировать пузырьком");
+Console.WriteLine("5 - сделать все");
+int a = int.Parse(Console.ReadLine());
+switch(a)
+{
+	case 1: Task1();break;
+	case 2: Task2();break;
+	case 3: Task3();break;
+	case 4: Task4();break;
+	case 5: Task5();break;
+	default: Console.Write("out of number");break;
+}
+
+
+void Task1()
+{
+foreach (int x in arr)
+{
+	Console.Write(x + " ");
+}
+}
+
+void Task2()
+{
+int mi = 10000;
+int mx = -10000;
+int sum = 0;
+foreach(int x in arr)
+{
+	if(x<mi)
+		mi=x;
+	if(x>mx)
+		mx=x;
+	sum+=x;
+}
+Console.Write($"max={mx},min={mi},sum={sum}");
+}
+
+void Task3()
+{
+Array.Reverse(arr);
+foreach (int x in arr)
+{
+	Console.Write(x+" ");
+}
+}
+
+void Task4()
+{
+for (int i=0; i<arr.Length - 1;i++)
+{
+	for (int j=0; j<arr.Length - 1;j++)
+	{
+		if(arr[j]>arr[j+1])
+		{
+			(arr[j],arr[j+1])=(arr[j+1],arr[j]);
+		}
+	}
+}
+foreach (int x in arr)
+{
+	Console.Write(x+" ");
+}	
+}	
+
+void Task5()
+{
+Task1();
+Task2();
+Task3();
+Task4();
+}	
+	
