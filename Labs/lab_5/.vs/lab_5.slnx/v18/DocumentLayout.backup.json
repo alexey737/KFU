@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|solutionrelative:balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|solutionrelative:balance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC2DB4FD-B723-4878-B256-D135A0D0F87D}|lab_5.csproj|solutionrelative:rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_5\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882F1999-1239-716B-0B6F-4B31B13D9AB6}|lab_5.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,20 +42,19 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Balance.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Balance.cs",
               "RelativeDocumentMoniker": "Balance.cs",
-              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Balance.cs*",
-              "RelativeToolTip": "Balance.cs*",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Balance.cs",
+              "RelativeToolTip": "Balance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T13:19:15.573Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T13:19:15.573Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Rectangle.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Rectangle.cs",
               "RelativeDocumentMoniker": "Rectangle.cs",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Rectangle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T13:10:05.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T13:10:05.006Z"
             },
             {
               "$type": "Document",
@@ -76,12 +74,11 @@
               "RelativeToolTip": "Point.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T13:04:52.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T13:04:52.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Book.cs",
               "RelativeDocumentMoniker": "Book.cs",
@@ -89,31 +86,30 @@
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-10T12:49:15.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-10T12:49:15.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T12:38:46.039Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\lab_5\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-10T12:24:59.102Z",
               "EditorCaption": ""

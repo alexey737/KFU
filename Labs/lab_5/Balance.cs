@@ -1,6 +1,6 @@
 ﻿class Balance
 {
-    public int sum;
+    private int sum;
     public void Add(int x)
     {
         sum += x;

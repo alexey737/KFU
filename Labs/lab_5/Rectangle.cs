@@ -1,11 +1,12 @@
 ﻿class Rectangle
 {
-    public int width;
-    public int height;
-    public int GetArea()
+    public int GetArea(int side)
     {
-        int result = width * height;
-        return result;
+        return side * side;
+    }
+    public double GetArea(double width, double height)
+    {
+        return width * height;
     }
 }
  
