@@ -2,5 +2,6 @@
   <Project Path="../Lab_7.2/Lab_7.2.csproj" />
   <Project Path="../Lab_7.3/Lab_7.3.csproj" />
   <Project Path="../Lab_7.4/Lab_7.4.csproj" Id="feb1ef7a-18ab-4d0a-9c73-09770b47f828" />
+  <Project Path="../Lab_7.5/Lab_7.5.csproj" Id="92c4885a-6b5b-4e25-ab40-b652114fc824" />
   <Project Path="Lab_7.csproj" />
 </Solution>
