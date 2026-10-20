@@ -24,3 +24,6 @@ void Task3()
             ans++;
     Console.Write(ans);
 }
+Task1();
+Task2();
+Task3();

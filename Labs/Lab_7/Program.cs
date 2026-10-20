@@ -28,3 +28,6 @@ void Task3()
     else
         Console.Write("False");
 }
+Task1();
+Task2();
+Task3();
