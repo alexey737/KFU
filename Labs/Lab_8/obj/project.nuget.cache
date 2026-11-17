@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bPqrEzBN3Bc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Наталия\\Desktop\\KFU\\Labs\\Lab_8\\Lab_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Наталия\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.15\\microsoft.netcore.app.ref.10.0.15.nupkg.sha512",
+    "C:\\Users\\Наталия\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.15\\microsoft.aspnetcore.app.ref.10.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

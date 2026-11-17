@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\homework\\home_4\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|solutionrelative:human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\homework\\home_4\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|solutionrelative:participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\homework\\home_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\homework\\home_4\\magicballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|solutionrelative:magicballs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\homework\\home_4\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|solutionrelative:human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\homework\\home_4\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|solutionrelative:participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA077DE7-52DE-EBE0-73A6-5F27F298419D}|Home_4.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\homework\\home_4\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,11 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "NLO.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\NLO.cs",
               "RelativeDocumentMoniker": "NLO.cs",
@@ -54,12 +54,11 @@
               "RelativeToolTip": "NLO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T12:55:50.324Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T12:55:50.324Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MechaSpiders.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\MechaSpiders.cs",
               "RelativeDocumentMoniker": "MechaSpiders.cs",
@@ -67,12 +66,11 @@
               "RelativeToolTip": "MechaSpiders.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T12:52:59.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T12:52:59.42Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "MagicBalls.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\MagicBalls.cs",
               "RelativeDocumentMoniker": "MagicBalls.cs",
@@ -80,8 +78,7 @@
               "RelativeToolTip": "MagicBalls.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T12:46:04.275Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T12:46:04.275Z"
             },
             {
               "$type": "Document",
@@ -93,8 +90,7 @@
               "RelativeToolTip": "Cat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-16T12:15:36.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-16T12:15:36.557Z"
             },
             {
               "$type": "Document",
@@ -110,33 +106,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Human.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\Human.cs",
               "RelativeDocumentMoniker": "Human.cs",
-              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\Human.cs",
-              "RelativeToolTip": "Human.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\Human.cs*",
+              "RelativeToolTip": "Human.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T07:48:47.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Participant.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\Participant.cs",
               "RelativeDocumentMoniker": "Participant.cs",
               "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\Participant.cs",
               "RelativeToolTip": "Participant.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wAoAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-16T07:18:48.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Homework\\Home_4\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

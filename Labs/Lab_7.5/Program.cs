@@ -17,7 +17,7 @@ void Task1()
         int[,] clone2 = (int[,])matrix.Clone();
         for (int i = 0; i < matrix.GetLength(0); i++)
         {
-            for (int j = 0; j < matrix.GetLength(0); j++)
+            for (int j = 0; j < matrix.GetLength(1); j++)
             {
                 Console.Write(matrix[i, j]);
             }
@@ -68,15 +68,22 @@ void Task1()
         Console.WriteLine($"sum diagonal:{sum}");
         Console.WriteLine();
         int maxx = matrix[0,0];
+        int q = 0;
+        int z = 0;
         for (int i = 0; i < n; i++)
         {
             for (int j = 0; j < n; j++)
             {
                 if (matrix[i, j] > maxx)
+                {
                     maxx = matrix[i, j];
+                    q = i;
+                    z = j;
+                }
+                    
             }
         }
-        Console.WriteLine($"max matrix: {maxx}");
+        Console.WriteLine($"max matrix: {maxx}, [{q},{z}]");
 
     }
 
