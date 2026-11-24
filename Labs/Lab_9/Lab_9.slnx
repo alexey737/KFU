@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="../Lab_9.1/Lab_9.1.csproj" />
+  <Project Path="../Lab_9.2/Lab_9.2.csproj" />
+  <Project Path="../Lab_9.3/Lab_9.3.csproj" />
+  <Project Path="../Lab_9.4/Lab_9.4.csproj" />
+  <Project Path="../Lab_9.5/Lab_9.5.csproj" />
+  <Project Path="../Lab_9.6/Lab_9.6.csproj" />
+  <Project Path="Lab_9.csproj" />
+</Solution>

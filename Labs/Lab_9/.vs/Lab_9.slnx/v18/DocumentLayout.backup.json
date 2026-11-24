@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3460E41D-9C66-4E9B-8B59-6408825EA8BA}|..\\Lab_9.6\\Lab_9.6.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_9.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1062CE-D36E-41DE-8673-D6076A44AE42}|..\\Lab_9.5\\Lab_9.5.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_9.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F487F24-2FC6-40E0-AF6E-A9FD08DD8BC1}|Lab_9.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F487F24-2FC6-40E0-AF6E-A9FD08DD8BC1}|Lab_9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E190135-371B-45FE-B332-AB24D4A742ED}|..\\Lab_9.1\\Lab_9.1.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_9.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BD8198-FBEE-4FA9-BF5E-0DE21D263DFC}|..\\Lab_9.2\\Lab_9.2.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_9.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8B3CE0-D666-41BB-AB26-38760DBE7E90}|..\\Lab_9.3\\Lab_9.3.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_9.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{672C43E6-1468-4E4D-9832-07B95EF42963}|..\\Lab_9.4\\Lab_9.4.csproj|c:\\users\\\u043D\u0430\u0442\u0430\u043B\u0438\u044F\\desktop\\kfu\\labs\\lab_9.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab_9.6\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.6\\Program.cs",
+              "RelativeToolTip": "..\\Lab_9.6\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T16:18:19.452Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab_9.5\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.5\\Program.cs",
+              "RelativeToolTip": "..\\Lab_9.5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:50:59.219Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab_9.4\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.4\\Program.cs",
+              "RelativeToolTip": "..\\Lab_9.4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:40:00.247Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab_9.3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.3\\Program.cs",
+              "RelativeToolTip": "..\\Lab_9.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:09:58.493Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab_9.2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.2\\Program.cs",
+              "RelativeToolTip": "..\\Lab_9.2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T15:01:18.637Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab_9.1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9.1\\Program.cs",
+              "RelativeToolTip": "..\\Lab_9.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:56:13.957Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0442\u0430\u043B\u0438\u044F\\Desktop\\KFU\\Labs\\Lab_9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-24T14:18:37.565Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
